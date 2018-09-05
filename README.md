@@ -12,6 +12,6 @@ Skills : EDA, Data Cleaning, Feature Engineering, Supervised Machine Learning, C
 Exchange Rate Analysis and Forecasting (Time Series Analysis and forecasting)
 
 Project Overview:  
-This project is about predicting exchange rate for future. 
+This project is about analysing exchange rate. The goal of this project is to develop a model which will help investors and business owners to decide about their investment opportunities across globe. This will help them in maximize their profit, manage the cash flow and take business expansion decisions and investment opportunities.
 
 Skills : EDA, Data Cleaning,Time Series Analysis and Forecasting (ARIMA, AUTO ARIMA, Prophet, LSTM)
