@@ -1,7 +1,7 @@
 # Capstone-Project
 Data Science Projects that showcase my skills in exploring, visualizing, analyzing, experimenting and modeling with data. 
 
-1. Predicting Song likeability from Spotify audio data (Supervised Learning)
+__1. Predicting Song likeability from Spotify audio data (Supervised Learning)__
 
     Project Overview:
     
@@ -9,7 +9,7 @@ Data Science Projects that showcase my skills in exploring, visualizing, analyzi
 
     Skills : EDA, Data Cleaning, Feature Engineering, Supervised Machine Learning, Classification
 
-2. Classifying Income (Supervised Learning)
+__2. Classifying Income (Supervised Learning)__
 
     Project Overview:  
     
@@ -18,7 +18,7 @@ Data Science Projects that showcase my skills in exploring, visualizing, analyzi
     Skills : EDA, Data Cleaning, Feature Engineering, Supervised Machine Learning, Classification
 
 
-3. Exchange Rate Analysis and Forecasting (Time Series Analysis and forecasting)
+__3. Exchange Rate Analysis and Forecasting (Time Series Analysis and forecasting)__
 
     Project Overview:  
     
@@ -26,7 +26,7 @@ Data Science Projects that showcase my skills in exploring, visualizing, analyzi
 
     Skills : EDA, Data Cleaning,Time Series Analysis and Forecasting (ARIMA, AUTO ARIMA, Prophet, LSTM)
 
-4. Unemployment Rate Analysis and Forecasting (Time Series Analysis and forecasting)
+__4. Unemployment Rate Analysis and Forecasting (Time Series Analysis and forecasting)__
 
     Project Overview:  
     
