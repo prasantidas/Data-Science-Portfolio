@@ -1,7 +1,7 @@
 # Capstone-Project
 Data Science Projects that showcase my skills in exploring, visualizing, analyzing, experimenting and modeling with data. 
 
-1. Predicting Song likeability from Spotify audio data (Supervised Learning) 
+# 1. Predicting Song likeability from Spotify audio data (Supervised Learning) 
 
     Project Overview:
         Built a predictive model to classify whether a person likes a song or not based on its audio features.
